@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and background as an aspiring Data Scientist & Frontend Developer.
 
-🔗 **Live Site:** https://ayman-queen.github.io
+🔗 **Live Site:** https://portfolio-aymixyz.vercel.app/
 
 ## About
 
